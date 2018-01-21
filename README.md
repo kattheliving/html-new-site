@@ -1,2 +1,2 @@
-# html-new-site
+# html-news-site
 HTML News Website
